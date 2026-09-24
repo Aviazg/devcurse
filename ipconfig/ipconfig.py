@@ -23,7 +23,7 @@ print("NETWORK INFORMATION EXPLANATION")
 print("=" * 70)
 
 print("""
-test 1
+test 3
 """)
 
 input("\nPress ENTER to close...")
