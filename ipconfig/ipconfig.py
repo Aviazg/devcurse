@@ -24,7 +24,7 @@ print("=" * 70)
 
 print("""
 hahaha!!!
-ya crazyy
+ya crazyy adont care
 """)
 
 input("\nPress ENTER to close...")
